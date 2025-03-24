@@ -8,3 +8,4 @@ The preliminary pipeline can be found in the Docling_Run_1.ipynb notebook. In th
 <img width="310" alt="Bildschirmfoto 2025-03-24 um 19 36 16" src="https://github.com/user-attachments/assets/119011de-7c2c-4a98-8c62-7c3e9fd2d8ef" />
 <img width="337" alt="Bildschirmfoto 2025-03-24 um 19 36 22" src="https://github.com/user-attachments/assets/d3de13de-68e7-440f-86ab-98a12338790c" />
 <img width="270" alt="Bildschirmfoto 2025-03-24 um 19 36 27" src="https://github.com/user-attachments/assets/13641ad4-1148-4bb5-add4-88d5ae159eb7" />
+
